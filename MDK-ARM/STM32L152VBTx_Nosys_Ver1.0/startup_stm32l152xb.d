@@ -1,0 +1,1 @@
+stm32l152vbtx_nosys_ver1.0\startup_stm32l152xb.o: startup_stm32l152xb.s
